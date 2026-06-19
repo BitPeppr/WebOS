@@ -1,0 +1,9 @@
+.closebutton {
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+  background-color: #ec6b5e;
+  border-radius: 16px;
+  border: solid 1px rgba(0, 0, 0, 0.25);
+  margin-left: 6px;
+}
